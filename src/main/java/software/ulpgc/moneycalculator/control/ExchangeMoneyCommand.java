@@ -4,12 +4,10 @@ import software.ulpgc.moneycalculator.CurrencyDialog;
 import software.ulpgc.moneycalculator.ExchangeRateLoader;
 import software.ulpgc.moneycalculator.MoneyDialog;
 import software.ulpgc.moneycalculator.MoneyDisplay;
-import software.ulpgc.moneycalculator.fixerapi.FixerExchangeLoader;
 import software.ulpgc.moneycalculator.model.Currency;
 import software.ulpgc.moneycalculator.model.ExchangeRate;
 import software.ulpgc.moneycalculator.model.Money;
 
-import java.util.List;
 
 public class ExchangeMoneyCommand implements Command{
     private final MoneyDialog moneyDialog;

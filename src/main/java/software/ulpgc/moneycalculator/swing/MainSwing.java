@@ -5,7 +5,6 @@ import software.ulpgc.moneycalculator.control.ExchangeMoneyCommand;
 import software.ulpgc.moneycalculator.fixerapi.FixerCurrencyLoader;
 import software.ulpgc.moneycalculator.fixerapi.FixerExchangeLoader;
 import software.ulpgc.moneycalculator.model.Currency;
-import software.ulpgc.moneycalculator.swing.MainFrame;
 
 import java.util.List;
 
